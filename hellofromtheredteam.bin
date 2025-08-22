@@ -1,0 +1,4 @@
+#!/bin/bash
+# This script prints a welcome message when executed.
+
+echo "Hello from your custom bin file! This is a test message."
